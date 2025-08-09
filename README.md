@@ -18,7 +18,8 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-
+6. 🌍 [Live Demo](#live-demo)
+   
 ## <a name="introduction">🤖 Introduction</a>
 
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
@@ -80,6 +81,7 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
+## <a name="live-demo" href="https://ai-interview-mocker-delta.vercel.app/ ">🌍 LiveDemo</a>
 
 **Set Up Environment Variables**
 
