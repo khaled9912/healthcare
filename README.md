@@ -81,7 +81,7 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-## <a name="live-demo" href="jsm-carepulse.vercel.app/">🌍 LiveDemo</a>
+## <a name="live-demo" href="https://jsm-carepulse.vercel.app/">🌍 LiveDemo</a>
 
 **Set Up Environment Variables**
 
