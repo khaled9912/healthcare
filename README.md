@@ -81,7 +81,7 @@ Install the project dependencies using npm:
 ```bash
 npm install
 ```
-## <a name="live-demo" href="https://ai-interview-mocker-delta.vercel.app/ ">🌍 LiveDemo</a>
+## <a name="live-demo" href="jsm-carepulse.vercel.app/ " blank="_">🌍 LiveDemo</a>
 
 **Set Up Environment Variables**
 
